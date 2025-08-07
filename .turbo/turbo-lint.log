@@ -1,0 +1,6 @@
+
+
+> @sargonpiraev/notion-mcp-server@1 lint
+> eslint ./src --ext .ts
+
+[1G[0K
