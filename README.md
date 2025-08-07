@@ -49,7 +49,7 @@ npx -y @smithery/cli@latest install @sargonpiraev/notion-mcp-server --client <CL
 
 #### Cursor One-Click Installation
 
-[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=@sargonpiraev/notion-mcp-server&config=)
+[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=@sargonpiraev/notion-mcp-server&config=eyJjb21tYW5kIjoibnB4IiwiYXJncyI6WyIteSIsIkBzYXJnb25waXJhZXYvbm90aW9uLW1jcC1zZXJ2ZXIiXSwiZW52Ijp7Ik5PVElPTl9BUElfVE9LRU4iOiJ5b3VyX25vdGlvbl9hcGlfdG9rZW5faGVyZSJ9fQ==)
 
 #### Manual Configuration
 
